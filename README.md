@@ -62,7 +62,7 @@ I have a proven track record of delivering exceptional projects, from stunning w
 
 - **GitHub:** [github.com/shoaib-fateh](https://github.com/shoaib-fateh)
 - **LinkedIn:** [linkedin.com/in/shoaib-fateh](https://linkedin.com/in/shoaib-fateh)
-- **Email:** [shoaib@example.com](mailto:shoaib@example.com)
+- **Email:** [shoaib@example.com](mailto:shoaibfateh21@yahoo.com)
 - **Twitter:** [twitter.com/shoaib-fateh](https://twitter.com/shoaib-fateh)
 
 ---
