@@ -2,7 +2,7 @@
 
 ### Innovator | Full-Stack Developer | Creative Designer
 
-![Profile Picture](https://avatars.githubusercontent.com/u/115332099?v=4)
+<!-- ![Profile Picture](https://avatars.githubusercontent.com/u/115332099?v=4) -->
 
 
 Welcome to my GitHub profile! I am Shoaib Fateh, a passionate developer and creative designer with a drive for innovation and excellence. My mission is to leverage technology to solve real-world problems and deliver high-quality solutions.
