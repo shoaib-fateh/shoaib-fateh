@@ -1,11 +1,6 @@
 # Shoaib Fateh
-
-### Innovator | Full-Stack Developer | Creative Designer
-
 <!-- ![Profile Picture](https://avatars.githubusercontent.com/u/115332099?v=4) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Innovator;Full-Stack+Developer;Creative+Designer)](https://git.io/typing-svg)
-
-
 
 Welcome to my GitHub profile! I am Shoaib Fateh, a passionate developer and creative designer with a drive for innovation and excellence. My mission is to leverage technology to solve real-world problems and deliver high-quality solutions.
 
