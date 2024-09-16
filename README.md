@@ -4,6 +4,7 @@
 
 Welcome to my GitHub profile! I am Shoaib Fateh, a passionate developer and creative designer with a drive for innovation and excellence. My mission is to leverage technology to solve real-world problems and deliver high-quality solutions.
 
+<!--
 ## 🌟 About Me
 
 I am a versatile and self-taught developer specializing in:
@@ -14,7 +15,7 @@ I am a versatile and self-taught developer specializing in:
 - **Graphic Design:** Adobe Photoshop, CorelDRAW, Adobe Illustrator, Figma
 
 I have a proven track record of delivering exceptional projects, from stunning web designs to complex web applications. I am constantly exploring new technologies and methodologies to stay ahead in the tech world.
-
+-->
 
 
 
