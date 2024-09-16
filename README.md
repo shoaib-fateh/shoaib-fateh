@@ -15,45 +15,9 @@ I am a versatile and self-taught developer specializing in:
 
 I have a proven track record of delivering exceptional projects, from stunning web designs to complex web applications. I am constantly exploring new technologies and methodologies to stay ahead in the tech world.
 
-## 🛠️ Skills
 
-### Programming Languages & Frameworks:
-- **JavaScript:** React.js, Node.js, Next.js, jQuery
-- **Web Development:** HTML5, CSS3, Bootstrap5, Tailwind CSS
-- **Mobile Development:** Flutter, React Native
-- **Database Management:** MongoDB, SQL, Firebase
-- **Version Control:** Git, GitHub
 
-### Design Tools:
-- **Adobe Suite:** Photoshop, Illustrator, XD
-- **CorelDRAW**
-- **Figma**
 
-### Other Skills:
-- **API Development & Integration**
-- **Responsive Web Design**
-- **UI/UX Design**
-- **Agile & Scrum Methodologies**
-- **Project Management**
-
-## 📈 Professional Experience
-
-### Lead Full-Stack Developer
-- Spearheaded the development of scalable web applications using React.js and Node.js.
-- Architected and maintained databases, ensuring optimal performance and security.
-- Collaborated with cross-functional teams to deliver projects on time and within budget.
-
-### Senior Graphic Designer
-- Designed compelling graphics and user interfaces for various clients using Adobe Photoshop, Illustrator, and Figma.
-- Created branding materials, promotional graphics, and UI/UX designs that enhanced user engagement.
-
-### Mobile App Developer
-- Developed cross-platform mobile applications using Flutter and React Native.
-- Integrated APIs and third-party services to enhance app functionality and user experience.
-
-## 🌐 Open Source Contributions
-- Actively contributing to several open-source projects, focusing on web development and mobile app frameworks.
-- Participating in hackathons and coding challenges to stay sharp and connected with the developer community.
 
 ## 🌐 Connect with Me
 
