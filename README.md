@@ -92,9 +92,3 @@
 ###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib-fateh&" alt="shoaib-fateh" /></p>
-
-<p>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</p>
