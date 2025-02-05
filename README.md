@@ -15,13 +15,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shoaib-fateh.shoaib-fateh&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E3N2ZseGtwN2tpdmEzdXVpd294NGNubWI2ZjRtbDRsa3A3ZTNvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAp8nc0MJkcboiV7BQ/giphy.gif" style="width: 100px; border-radius: 10px" />
 
 ###
 
