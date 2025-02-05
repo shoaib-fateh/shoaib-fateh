@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/shoaib-fateh/shoaib-fateh/raw/main/prof.jfif"  />
+  <img height="150" src="https://github.com/shoaib-fateh/shoaib-fateh/raw/main/prof.jfif"  />
 </div>
 
 ###
@@ -83,15 +83,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaib-fateh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib-fateh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoaib-fateh/shoaib-fateh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoaib-fateh/shoaib-fateh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shoaib-fateh/shoaib-fateh/output/github-snake.svg" />
+</picture>
 
 ###
