@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/shoaib-fateh/shoaib-fateh/raw/main/prof.jfif"  />
+  <img src="https://raw.githubusercontent.com/shoaib-fateh/shoaib-fateh/refs/heads/main/profile.jpg"  />
 </div>
 
 ###
