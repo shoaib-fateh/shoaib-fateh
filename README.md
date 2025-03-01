@@ -1,24 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/shoaib-fateh/shoaib-fateh/refs/heads/main/profile.jpg"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/shoaib-fateh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/shoaibfateh21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E3N2ZseGtwN2tpdmEzdXVpd294NGNubWI2ZjRtbDRsa3A3ZTNvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAp8nc0MJkcboiV7BQ/giphy.gif" style="width: 100px; border-radius: 10px" />
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -84,5 +66,15 @@
 </picture>
 
 ###
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib-fateh&" alt="shoaib-fateh" /></p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/shoaib-fateh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/shoaibfateh21" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+-->
